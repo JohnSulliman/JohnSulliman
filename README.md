@@ -4,6 +4,13 @@
  
 <div align="center">
   <img alt="Sulliman-Howl.gif" src="https://i.pinimg.com/originals/07/08/ca/0708ca84fdc611ce716037850d2c0153.gif" />
+ 
+  <p>Olá! Meu nome é Jonathan Sulliman, tenho 25 anos e estou estudando Programação na Blue EdTech.</p>
+
+  <p>Possuo conhecimento em lógica de programação, javascript, css, sass, html, react, next, typescript, bootstrap e mui-material. Tenho facilidade de aprender coisas relacionadas   a tecnologia, boa comunicação e estou desenvolvendo minhas habilidades de trabalho em equipe.</p>
+
+  <p>Meu objetivo é trabalhar no ramo da tecnologia -se possível em algo que esteja envolvido com jogos, pois sempre foi meu sonho desde criança-, adquirir novas experiências,
+   aprender coisas novas e receber reconhecimento pelos meus feitos.</p>
 </div>
 
  ##
