@@ -1,7 +1,13 @@
 ### Olá! Eu sou John Sulliman! 👋
+
+ ##
+ 
 <div align="center">
   <img alt="Sulliman-Howl.gif" src="https://i.pinimg.com/originals/07/08/ca/0708ca84fdc611ce716037850d2c0153.gif" />
 </div>
+
+ ##
+ 
 <div align="center">
   <a href="https://github.com/JohnSulliman">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=johnsulliman&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
