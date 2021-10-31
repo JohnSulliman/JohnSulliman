@@ -1,9 +1,13 @@
-### Olá! Seja bem-vindo! 👋
+<div align="center">
+ <h1>Olá! Seja bem-vindo! 👋</h1>
+</div>
 
- ##
- 
 <div align="center">
   <img alt="Sulliman-Howl.gif" src="https://i.pinimg.com/originals/07/08/ca/0708ca84fdc611ce716037850d2c0153.gif" />
+ 
+  <br />
+  <br />
+  <br />
  
   <p>Olá! Meu nome é Jonathan Sulliman, tenho 25 anos e estou estudando Programação na Blue EdTech.</p>
 
@@ -20,7 +24,7 @@
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=johnsulliman&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsulliman&layout=compact&langs_count=7&theme=aura_dark"/>
 </div>
-  
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Sulliman-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Sulliman-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
