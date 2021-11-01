@@ -9,7 +9,7 @@
   <br />
   <br />
  
-  <p>Olá! Meu nome é Jonathan Sulliman, tenho 25 anos e estou estudando Programação na Blue EdTech.</p>
+  <p>Meu nome é Jonathan Sulliman, tenho 25 anos e estou estudando Programação na Blue EdTech.</p>
 
   <p>Possuo conhecimento em lógica de programação, javascript, css, sass, html, react, next, typescript, bootstrap e mui-material. Tenho facilidade de aprender coisas relacionadas   a tecnologia, boa comunicação e estou desenvolvendo minhas habilidades de trabalho em equipe.</p>
 
