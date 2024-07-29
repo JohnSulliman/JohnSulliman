@@ -9,12 +9,12 @@
   <br />
   <br />
  
-  \\\<p>Meu nome é Jonathan, tenho 26 anos e estou estudando programação.</p>
+  \\<p>Meu nome é Jonathan, tenho 26 anos e estou estudando programação.</p>
 
   <p>Possuo conhecimento em lógica de programação, javascript, css, sass, html, react, next, typescript, bootstrap e mui-material. Tenho facilidade de aprender coisas relacionadas   a tecnologia, boa comunicação e estou desenvolvendo minhas habilidades de trabalho em equipe.</p>
 
   <p>Meu objetivo é trabalhar no ramo da tecnologia -se possível em algo que esteja envolvido com jogos, pois sempre foi meu sonho desde criança-, adquirir novas experiências,
-   aprender coisas novas e receber reconhecimento pelos meus feitos.</p>\\\
+   aprender coisas novas e receber reconhecimento pelos meus feitos.</p>\\
 </div>
 
  ##
